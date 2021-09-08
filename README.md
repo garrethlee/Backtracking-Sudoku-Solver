@@ -11,7 +11,7 @@ Files:
 - You can use arrow keys to navigate the board
 - Enabling `Show Steps`displays every iteration of the algorithm. Disabling<br> it will make the program run faster, however, without the benefit of visualization.
 
-[](https://i.ibb.co/4fvFSg8/ezgif-com-gif-maker.gif)
+![Program in action](https://i.ibb.co/4fvFSg8/ezgif-com-gif-maker.gif)
 
 ## Note:
 - The program has a **randomize** functionality, which serves to create a random <br>partially filled sudoku puzzle, which the algorithm will try to solve. Note that<br> the eventual configuration **might not always be solvable**.
